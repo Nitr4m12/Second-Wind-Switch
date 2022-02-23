@@ -16,8 +16,8 @@ Discord Server: https://discord.gg/VU4z9AF
 We'll try to release an update on the 28th of every other Month
 
 #### How do I install mods?
-Follow the guide here: https://zeldamods.org/wiki/Help:Using_mods \n
-Alternatively use: https://github.com/Torphedo/BOTW-ModdingGuide/wiki/Installing-Second-Wind-for-Nintendo-Switch
+Follow the guide here: https://zeldamods.org/wiki/Help:Using_mods  
+Alternatively use: https://github.com/Torphedo/BOTW-ModdingGuide/wiki/Installing-Second-Wind-for-Nintendo-Switch  
 
 #### Do I install the new update alongside the old one?
 Always replace or update your old version with the latest one.
