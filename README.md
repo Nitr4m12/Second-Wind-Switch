@@ -10,6 +10,12 @@ Project Breakdown: https://secondwind.fandom.com/wiki/Project_Breakdown
 
 Discord Server: https://discord.gg/VU4z9AF
 
+## Switch game update 1.9.0
+
+An experimental compatibility repair for Second Wind v1.9.10a-fix is available in the
+[BotW 1.9.0 instructions](docs/botw-1.9.0.md). It rebuilds the Common UI texture bank from your own
+1.9.0 game data before the normal BNP merge. A full quest/shrine playthrough remains unverified.
+
 ## FAQ
 
 #### When do new releases come out?
